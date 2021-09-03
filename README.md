@@ -1,3 +1,3 @@
-#Second commit
+# git_cmd
 
-##First commit
+Some tests in git/github studies
